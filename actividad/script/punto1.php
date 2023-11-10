@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>PUNTO UNO</title>
+    <title>PUNTO UNO </title>
 </head>
 <body>
     <h1>CALCULADORA</h1>
